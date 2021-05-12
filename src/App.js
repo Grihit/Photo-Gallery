@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './App.scss';
+import "./styles.css";
+import { Image } from './components/Image';
+import { popup } from './components/Popup';
+import images from './data';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <p className="heading">Photoshop Edits</p><hr/>
+      <div className="flex-container">
+          {images.map(data => (
+            <div className="flex-item" key={`${data.id}`}>
+              <Image data={data} />
+            </div>
+          ))}
+      </div>
+    </React.Fragment>
   );
 }
 

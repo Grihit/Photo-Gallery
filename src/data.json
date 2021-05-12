@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "Trippy World",
+        "image": "/images/Psychadelic 1.png",
+        "desc": "The world if you were high right now"
+    },
+    {
+        "id": 2,
+        "name": "Psychadelic Sky",
+        "image": "/images/Psychadelic 2.jpg",
+        "desc": "The sky if you were high right now"
+    },
+    {
+        "id": 3,
+        "name": "Synthwave",
+        "image": "/images/Psychadelic 3.jpg",
+        "desc": "A retro Synthwave edit"
+    },
+    {
+        "id": 4,
+        "name": "My first edit",
+        "image": "/images/Space.png",
+        "desc": "Edit I made using stock images when I was learning photoshop"
+    },
+    {
+        "id": 5,
+        "name": "Spaceship leaving Earth",
+        "image": "/images/Spaceship.jpg",
+        "desc": "A Spaceship made completely from scratch"
+    },
+    {
+        "id": 6,
+        "name": "Stairway to Pondicherry",
+        "image": "/images/Stairway.jpg",
+        "desc": "A heaven for Vitians"
+    },
+    {
+        "id": 7,
+        "name": "Akansha's Mood board",
+        "image": "/images/moodboards/Akansha's Mood board.png",
+        "desc": "A Moodboard I made for my friend Akansha"
+    },
+    {
+        "id": 8,
+        "name": "Saizel's Moodboard",
+        "image": "/images/moodboards/Didi's Mood board.png",
+        "desc": "A Moodboard I made for my sister Saizel"
+    },
+    {
+        "id": 9,
+        "name": "Enakshi's Moodboard",
+        "image": "/images/moodboards/Enakshi's Mood board.png",
+        "desc": "A Moodboard I made for my friend Enakshi"
+    },
+    {
+        "id": 10,
+        "name": "Eureka's Moodboard",
+        "image": "/images/moodboards/Eureka's Mood board.png",
+        "desc": "A Moodboard I made for my friend Eureka"
+    },
+    {
+        "id": 11,
+        "name": "Janvi's Moodboard",
+        "image": "/images/moodboards/Janvi's Mood board.png",
+        "desc": "A Moodboard I made for my friend Janvi"
+    },
+    {
+        "id": 12,
+        "name": "Nikkita's' Moodboard",
+        "image": "/images/moodboards/Nikks' Mood board.png",
+        "desc": "A Moodboard I made for my friend Nikkita"
+    },
+    {
+        "id": 13,
+        "name": "Priya's Moodboard",
+        "image": "/images/moodboards/Priya's Mood board.png",
+        "desc": "A Moodboard I made for my friend Priya"
+    },
+    {
+        "id": 14,
+        "name": "Samyak's Moodboard",
+        "image": "/images/moodboards/Sammy's Mood board.png",
+        "desc": "A Moodboard I made for my friend Samyak"
+    },
+    {
+        "id": 15,
+        "name": "Samvit's Moodboard",
+        "image": "/images/moodboards/Samvit's Mood board.png",
+        "desc": "A Moodboard I made for my friend Samvit"
+    },
+    {
+        "id": 16,
+        "name": "Star wars themed Moodboard",
+        "image": "/images/moodboards/Star wars Mood board.png",
+        "desc": "A Moodboard I made for the series Star Wars"
+    },
+    {
+        "id": 17,
+        "name": "Taksh's Moodboard",
+        "image": "/images/moodboards/Taksh's Mood board.png",
+        "desc": "A Moodboard I made for my friend Taksh"
+    },
+    {
+        "id": 18,
+        "name": "Yash's Moodboard",
+        "image": "/images/moodboards/Yash's Mood board.png",
+        "desc": "A Moodboard I made for my friend Yash"
+    },
+    {
+        "id": 19,
+        "name": "My Moodboard",
+        "image": "/images/moodboards/My Mood board.png",
+        "desc": "A Moodboard I made for myself"
+    }
+]
