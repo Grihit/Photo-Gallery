@@ -1,13 +1,14 @@
 body{
     padding: 5px;
-    background-image: linear-gradient(-45deg, rgb(12, 12, 12),rgb(80, 80, 80),rgb(12, 12, 12));
-    background-size: 200% 200%;
+    background-image: linear-gradient( black,rgb(88, 14, 82) 20%,rgb(145, 31, 31) ,rgb(175, 95, 64), rgb(148, 146, 17),rgb(179, 177, 177) 70%, rgb(40, 19, 133) 98%);
+    padding-bottom: 50px;
 }
 .heading{
     font-size: 4em;
-    color: rgb(255, 255, 255);
+    color: rgb(224, 224, 224);
     padding: 0px 0px 0px 10px;
     margin: 48px 0px 10px 0px;
+    text-align: center;
 }
 .flex-container{
     display: flex;
@@ -17,10 +18,10 @@ body{
     height: 100%;
 }
 .flex-item{
-    height: 300px;
-    width: 24%;
+    height: 450px;
+    width: 27%;
     position: relative;
-    margin-top: 15px;
+    margin-top: 200px;
     text-align: center;
     display: flex;
     justify-content: center;
