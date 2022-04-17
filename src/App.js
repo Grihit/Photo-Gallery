@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.scss';
+import './App.css';
 import "./styles.css";
 import { Image } from './components/Image';
 import images from './data';
